@@ -1,0 +1,163 @@
+the metadata of the downlaoded songs
+title : Balti - Bouheli (Official Music Video)
+id : B6GrWH8O8h4
+track : Bouheli
+artist : Balti
+album : Bouheli
+release_date : None
+release_year : None
+cover : https://i.ytimg.com/vi/B6GrWH8O8h4/maxresdefault.jpg
+
+title : Labess - El kess ydour
+id : 1vBlWoyYa5A
+track : None
+artist : None
+album : None
+release_date : None
+release_year : None
+cover : https://i.ytimg.com/vi/1vBlWoyYa5A/maxresdefault.jpg
+
+title : Finestation 6 : انا مش زعلان - عود
+id : o4jrxepr2Sk
+track : None
+artist : None
+album : None
+release_date : None
+release_year : None
+cover : https://i.ytimg.com/vi/o4jrxepr2Sk/maxresdefault.jpg
+
+title : إزازة فودكا - ع السلم باند ( بالكلمات ) | Ezazt Voda - 3al Elselem Band - With Lyrics
+id : hbh7bUh4k2Q
+track : Vodka
+artist : Al Selem Band
+album : Vodka
+release_date : None
+release_year : None
+cover : https://i.ytimg.com/vi/hbh7bUh4k2Q/maxresdefault.jpg
+
+title : Ramy Essam - Lessa Bahinlha رامى عصام - لسه بحنلها
+id : nZscnUakuJw
+track : None
+artist : None
+album : None
+release_date : None
+release_year : None
+cover : https://i.ytimg.com/vi/nZscnUakuJw/maxresdefault.jpg
+
+title : Cheb Khaled - Bakhta (Paroles / Lyrics) | الشاب خالد - بختة (الكلمات
+id : O6zEDqvxGXE
+track : Bakhta (Album Version)
+artist : Khaled
+album : N'Ssi N'Ssi
+release_date : None
+release_year : None
+cover : https://i.ytimg.com/vi/O6zEDqvxGXE/maxresdefault.jpg
+
+title : Sabry Mosbah - MANSIT  (Tunisian Music) صبري مصباح - مانسيت
+id : JQsJllbFrH4
+track : None
+artist : None
+album : None
+release_date : None
+release_year : None
+cover : https://i.ytimg.com/vi/JQsJllbFrH4/maxresdefault.jpg
+
+title : Sabry MOSBAH Moch Menny - صبري مصباح - مش مني
+id : _HpadheHSVI
+track : None
+artist : None
+album : None
+release_date : None
+release_year : None
+cover : https://i.ytimg.com/vi/_HpadheHSVI/maxresdefault.jpg
+
+title : Ÿuma - Nghir Alik ( Official Video ) / يوما - نغير عليك
+id : sTXv0sPgjXY
+track : Nghir Alik
+artist : Ÿuma
+album : Poussière d'étoiles
+release_date : None
+release_year : None
+cover : https://i.ytimg.com/vi/sTXv0sPgjXY/maxresdefault.jpg
+
+title : Yuma - Smek سماك
+id : j4pd62SVUbM
+track : Smek
+artist : Yuma
+album : Chura
+release_date : None
+release_year : None
+cover : https://i.ytimg.com/vi/j4pd62SVUbM/maxresdefault.jpg
+
+title : 100 حاجة فيك - Ÿuma - Live @ Rio
+id : pAfaKSo6XpQ
+track : None
+artist : None
+album : None
+release_date : None
+release_year : None
+cover : https://i.ytimg.com/vi/pAfaKSo6XpQ/maxresdefault.jpg
+
+title : ✪ أغاني جنريك أشهرالمسلسلات التونسية ✪ Ahmed Hassen & Ghassen BH
+id : OKnZ4YydpJ4
+track : None
+artist : None
+album : None
+release_date : None
+release_year : None
+cover : https://i.ytimg.com/vi/OKnZ4YydpJ4/maxresdefault.jpg
+
+title : Gultrah sound system - elli tchelou
+id : bXQGnDmkEt8
+track : None
+artist : None
+album : None
+release_date : None
+release_year : None
+cover : https://i.ytimg.com/vi/bXQGnDmkEt8/maxresdefault.jpg
+
+title : Jawhar - Khousouf (Official Video)
+id : JuOt8Ap5E1E
+track : Khoussouf
+artist : Jawhar
+album : Winrah Marah
+release_date : None
+release_year : None
+cover : https://i.ytimg.com/vi/JuOt8Ap5E1E/maxresdefault.jpg
+
+title : El Far3i - Tghayarti (Official video) | الفرعي - تغيّرتي
+id : 1nJOku-FPV8
+track : None
+artist : None
+album : None
+release_date : None
+release_year : None
+cover : https://i.ytimg.com/vi/1nJOku-FPV8/maxresdefault.jpg
+
+title : Bu Kolthoum - Jouwana  | بو كلثوم - جوّانا
+id : tPM7XcQfDKA
+track : None
+artist : None
+album : None
+release_date : None
+release_year : None
+cover : https://i.ytimg.com/vi/tPM7XcQfDKA/maxresdefault.jpg
+
+title : El Far3i - Tghayarti (Official video) | الفرعي - تغيّرتي
+id : 1nJOku-FPV8
+track : None
+artist : None
+album : None
+release_date : None
+release_year : None
+cover : https://i.ytimg.com/vi/1nJOku-FPV8/maxresdefault.jpg
+
+title : Cheb Terro - bad trip
+id : kb6vMwmoyTM
+track : None
+artist : None
+album : None
+release_date : None
+release_year : None
+cover : https://i.ytimg.com/vi/kb6vMwmoyTM/maxresdefault.jpg
+

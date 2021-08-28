@@ -1,0 +1,55 @@
+the metadata of the downlaoded songs
+title : Balaban - Azerbaijan [Trip-Hop - Bass Boost]
+id : BQN8-roIzuo
+track : None
+artist : None
+album : None
+release_date : None
+release_year : None
+cover : https://i.ytimg.com/vi/BQN8-roIzuo/maxresdefault.jpg
+
+title : Gustavo Santaolalla - Babel [Trip-Hop - Bass Boost]
+id : NEqHPxnxrFc
+track : Bibo no Aozora/Endless Flight and Babel (Album Version)
+artist : Ryuichi Sakamoto, Jacques Morelenbaum, Everton Nelson, Gustavo Santaolalla
+album : None
+release_date : None
+release_year : None
+cover : https://i.ytimg.com/vi/NEqHPxnxrFc/maxresdefault.jpg
+
+title : Karabakh - Azerbaijan [Trip-Hop - Bass Boost]
+id : AhT6xwgiqUo
+track : Karabakh
+artist : Faiq Eyvazlı
+album : None
+release_date : None
+release_year : None
+cover : https://i.ytimg.com/vi/AhT6xwgiqUo/maxresdefault.jpg
+
+title : Ghostly Kisses - Empty Note (Acoustic)
+id : u1TM1sqoaMI
+track : Empty Note (Acoustic)
+artist : Ghostly Kisses
+album : Alone Together
+release_date : None
+release_year : None
+cover : https://i.ytimg.com/vi/u1TM1sqoaMI/maxresdefault.jpg
+
+title : is this saddest beat ever?
+id : 42ID40IVeL4
+track : You Are a Memory
+artist : Message To Bears
+album : Maps
+release_date : None
+release_year : None
+cover : https://i.ytimg.com/vi/42ID40IVeL4/maxresdefault.jpg
+
+title : Ghostly Kisses - The City Holds My Heart (Acoustic)
+id : _FYaoKdRZeg
+track : The City Holds My Heart (Acoustic)
+artist : Ghostly Kisses
+album : Alone Together
+release_date : None
+release_year : None
+cover : https://i.ytimg.com/vi/_FYaoKdRZeg/maxresdefault.jpg
+
